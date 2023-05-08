@@ -1,0 +1,55 @@
+/* COLOURS */
+
+/* #FFF7D4 */
+/* #820000 */
+/* #C07F00 */
+
+/* WEBSITE */
+
+body {
+    background-color: #f9f5e0;
+    margin: 0;
+}
+
+h1 {
+    color: #820000;
+}
+
+p {
+    text-align: center;
+}
+
+/* HEADING */
+
+.heading {
+    text-align: center;
+    font-weight: bold;
+    font-size: 5rem;
+    font-family: 'Foldit', cursive;
+}
+
+/* NAVBAR */
+
+.cafe-logo {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    
+}
+
+.nav-item {
+    padding-left: 4.5rem;
+    padding-right: 4.5rem;
+}
+
+/* SLIDESHOW */
+
+.img-div {
+    max-height: 120px;
+    border: solid black;
+}
+
+.head-img {
+    text-align: center;
+
+}
