@@ -7,7 +7,7 @@
 /* WEBSITE */
 
 body {
-    background-color: #f9f5e0;
+    background-color: #f9f3d9;
     margin: 0;
 }
 
@@ -52,4 +52,14 @@ p {
 .head-img {
     text-align: center;
 
+}
+
+.food-img {
+    height: 100%;
+    object-fit: cover;
+    filter:brightness(0.7);
+}
+
+.food-img-div {
+    height: 560px;
 }
