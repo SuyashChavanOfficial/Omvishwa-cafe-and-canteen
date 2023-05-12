@@ -7,7 +7,7 @@
 /* WEBSITE */
 
 body {
-    background-color: #f9f3d9;
+    background-color: #f8f2da !important;
     margin: 0;
 }
 
@@ -34,7 +34,7 @@ p {
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    
+
 }
 
 .nav-item {
@@ -57,9 +57,24 @@ p {
 .food-img {
     height: 100%;
     object-fit: cover;
-    filter:brightness(0.7);
+    filter: brightness(0.7);
 }
 
 .food-img-div {
     height: 560px;
+}
+
+/* INTRO SECTION */
+
+.intro-head {
+    margin: 1.5rem;
+    font-weight: bold;
+    line-height: 1;
+    color: #820000;
+    font-family: 'Dancing Script', cursive;
+    font-size: 2.5rem;
+}
+
+.intro-text {
+    font-family: 'Lato', sans-serif;
 }
